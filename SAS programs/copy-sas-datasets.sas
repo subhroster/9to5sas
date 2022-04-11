@@ -1,7 +1,7 @@
 /*****************************************************************************************************************
 
 SAS file name: copy-sas-datasets
-Purpose: To demonstrate the UPDATE statement in the SAS data step.
+Purpose: To demonstrate the Copying and Moving SAS datasets.
 Author: Subhro Kar
 Creation Date: 09/01/2022
 Program Version : 1.0
